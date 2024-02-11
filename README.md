@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @cuupuu
-- 👀 I’m interested in music, movie, novel 
+- 👀 I’m interested in music, piano, movie, novel 
 - 🌱 I’m currently learning cs, ml
-- 💞️ I’m looking to collaborate on U
-- 📫 How to reach me yanchupei@gmail.com
-- 😄 Pronouns: lady lol...
+- 💞️ I’m looking to collaborate with U～
+- 📫 Reach me yanchupei@gmail.com
+- 😄 Favoriate: cappuccino
 - ⚡ Fun fact: cat person!!!
 
 <!---
